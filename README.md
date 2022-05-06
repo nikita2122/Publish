@@ -1,8 +1,8 @@
 # Hello there
-I want to talk to you in Sky .____. pe.
-This is my ID
-live:stevenc_91
-
-or
-would you please install Sky .____. pe and give the ID.
-Thanks.
+I want to talk to you in <b>Sky__ .pe</b>.<br/>
+This is my ID <br/>
+<h3>live:stevenc_91</h3><br/>
+<br/><br/>
+or<br/>
+would you please install <b>Sky__ .pe</b> and give the ID.<br/>
+Thanks.<br/>
